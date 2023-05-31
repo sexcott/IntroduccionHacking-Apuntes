@@ -1,0 +1,17 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Antecedentes}{2}{section.1}%
+\contentsline {section}{\numberline {2}Objetivos}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Alcance}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Impedimentos y limitaciones}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Resumen general}{3}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Reconocimiento}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Enumeracion de servicios expuestos}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Enumeracion de servidores web}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Enumeracion de subdominios}{6}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Enumeracion de paneles de autentifiación}{7}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Identificacion y explotación de vulnerabilidades}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Archivo de backup expuesto}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Explotacion del PhpMyAdmin}{9}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Escalada de privilegios}{12}{section.5}%
+\contentsline {section}{\numberline {6}Contramedidas y buenas practicas}{12}{section.6}%
+\contentsline {subsection}{\numberline {6.1}PhpMyAdmin 4.8.1 vulnerable}{12}{subsection.6.1}%

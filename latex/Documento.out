@@ -1,0 +1,16 @@
+\BOOKMARK [1][-]{section.1}{Antecedentes}{}% 1
+\BOOKMARK [1][-]{section.2}{Objetivos}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Alcance}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Impedimentos y limitaciones}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Resumen general}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Reconocimiento}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Enumeracion de servicios expuestos}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Enumeracion de servidores web}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.3}{Enumeracion de subdominios}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.4}{Enumeracion de paneles de autentifiaci\363n}{section.3}% 10
+\BOOKMARK [1][-]{section.4}{Identificacion y explotaci\363n de vulnerabilidades}{}% 11
+\BOOKMARK [2][-]{subsection.4.1}{Archivo de backup expuesto}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.2}{Explotacion del PhpMyAdmin}{section.4}% 13
+\BOOKMARK [1][-]{section.5}{Escalada de privilegios}{}% 14
+\BOOKMARK [1][-]{section.6}{Contramedidas y buenas practicas}{}% 15
+\BOOKMARK [2][-]{subsection.6.1}{PhpMyAdmin 4.8.1 vulnerable}{section.6}% 16
